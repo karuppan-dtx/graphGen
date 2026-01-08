@@ -1,0 +1,5 @@
+{
+  "name": "Visual Sitemap Architect",
+  "description": "A sophisticated tool to visualize website structures through interactive, draggable node-link diagrams powered by D3 and Gemini AI analysis.",
+  "requestFramePermissions": []
+}
